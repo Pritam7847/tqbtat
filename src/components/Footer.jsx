@@ -24,7 +24,7 @@ export default function Footer() {
     { label: "Home", href: "/" },
     { label: "About Us", href: "/about" },
     { label: "Our Goal", href: "/location" },
-    { label: "Registration", href: "/dashboard" },
+    { label: "Registration", href: "/registration" },
   ];
 
   return (
@@ -67,13 +67,26 @@ export default function Footer() {
           <div>
             <h2 className="font-semibold mb-5 text-gray-900">Get in touch</h2>
             <div className="text-sm space-y-2 text-gray-700">
-              <p>
-                Email: <span className="font-semibold text-black">thingqbatortrident@gmail.com</span>
-              </p>
-              <p>
-                University Relations: <span className="font-semibold text-black">shubhangambiswal@gmail.com</span>
-              </p>
-            </div>
+  <p>
+    Email:{" "}
+    <a
+      href="mailto:ciscothingqbator@tat.ac.in"
+      className="font-semibold text-black hover:underline"
+    >
+      ciscothingqbator@tat.ac.in
+    </a>
+  </p>
+  <p>
+    University Relations:{" "}
+    <a
+      href="mailto:shubhangambiswal@gmail.com"
+      className="font-semibold text-black hover:underline"
+    >
+      shubhangambiswal@gmail.com
+    </a>
+  </p>
+</div>
+
           </div>
         </div>
       </motion.div>
