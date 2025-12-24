@@ -4,9 +4,7 @@ import "./index.css";
 import App from "./App.jsx";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import AboutUs from "./pages/About1";
-import Brands from "./pages/Brands";
-import Location from "./pages/Location";
-import Dashboard from "./pages/Registration";
+
 import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
 import Registration from "./pages/Registration.jsx";
