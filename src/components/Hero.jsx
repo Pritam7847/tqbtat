@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 
 import Group177 from "../assets/Group177.png";
-import gpic from "../assets/gpic.JPG";
+import latestgrouptqb from "../assets/latestgrouptqb.jpeg";
 
 export default function HeroSection() {
   const navItems = [
@@ -153,7 +153,7 @@ export default function HeroSection() {
             whileHover={{ scale: 1.08, rotate: 1 }}
           >
             <img
-              src={gpic}
+              src={latestgrouptqb}
               alt="ThingQbator TAT"
               className="
                 w-[340px] md:w-[380px] lg:w-[420px]
