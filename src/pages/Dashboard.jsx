@@ -208,7 +208,7 @@ General:
             borderColor="border-teal-200"
             badgeColor="bg-teal-100 text-teal-600"
             rulesContent={rulesText} // pass rules
-            registrationLink="https://forms.gle/ER5wZTF22AJEmxqX6" // AIoT Hackathon link
+            registrationLink="https://docs.google.com/forms/d/e/1FAIpQLSc5kxYlUOvoqwBdflKwxfRS8sp2nJywNesPPyS8qqVJqIKs3w/viewform" // AIoT Hackathon link
           />
 
           <EventCard
