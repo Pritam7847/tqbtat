@@ -234,7 +234,7 @@ const PillNav = ({
     cssVars['--pill-text'] = 'black'; // Text color normally
 
     return (
-        <div className={`w-full absolute top-4 right-0 flex justify-end z-[1000] ${className}`}>
+        <div className={`w-full absolute right-0 flex justify-end z-[1000] top-12 md:top-4 ${className}`}>
             <nav
                 // *** CHANGE: Removed justify-between, only justify-end is needed for pills ***
                 className="w-full md:w-max flex items-center justify-end box-border px-4 md:px-16 lg:px-24 xl:px-32 py-2 md:py-3"
