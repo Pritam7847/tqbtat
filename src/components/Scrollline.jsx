@@ -73,25 +73,25 @@ export default function ScrollLine() {
   const journeySteps = [
     {
       title: "Idea Submission",
-      text: "Teams submit their problem statement, solution idea, and tech stack.",
+      text: "Teams submit their problem statement, solution idea, and tech stack. Registration ends by 2nd January 2026.",
       x: 50,
       y: 10,
     },
     {
       title: "Selection of TOP 30 team",
-      text: "Shortlisting based on innovation, feasibility, and impact.",
+      text: "Shortlisting based on innovation, feasibility, and impact. It would be notified via Email/Phone.",
       x: 300,
       y: 750,
     },
     {
       title: "Prototype / Development Round",
-      text: "Selected teams build a working prototype or MVP within the given time and receive mentor support.",
+      text: "Selected teams build a working prototype or MVP within the given time and receive mentor support on spot on hackathon day(9th January 2026).",
       x: 100,
       y: 1500,
     },
     {
       title: "Final Pitch & Evaluation",
-      text: "Teams present their solution (demo + presentation) in front of judges, followed by Q&A and final winner declaration.",
+      text: "Teams present their solution (demo + presentation) in front of judges, followed by Q&A and final winner declaration on 10th January 2026.",
       x: 700,
       y: 2500,
     },
