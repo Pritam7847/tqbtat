@@ -20,7 +20,7 @@ export default function HeroSection() {
     { label: "Home", href: "/" },
     { label: "About Us", href: "/about" },
     { label: "Our Goal", href: "/location" },
-    { label: "Registration", href: "/dashboard" },
+    { label: "Registration", href: "/registration" },
   ];
 
   useEffect(() => {
